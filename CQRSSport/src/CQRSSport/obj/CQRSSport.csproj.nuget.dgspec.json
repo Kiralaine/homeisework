@@ -1,0 +1,328 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/milkyway/CQRSSport/src/CQRSSport/CQRSSport.csproj": {}
+  },
+  "projects": {
+    "/home/milkyway/CQRSSport/src/CQRSSport.APP/CQRSSport.APP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/CQRSSport/src/CQRSSport.APP/CQRSSport.APP.csproj",
+        "projectName": "CQRSSport.APP",
+        "projectPath": "/home/milkyway/CQRSSport/src/CQRSSport.APP/CQRSSport.APP.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/CQRSSport/src/CQRSSport.APP/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/milkyway/CQRSSport/src/CQRSSport.Domain/CQRSSport.Domain.csproj": {
+                "projectPath": "/home/milkyway/CQRSSport/src/CQRSSport.Domain/CQRSSport.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/milkyway/CQRSSport/src/CQRSSport.Domain/CQRSSport.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/CQRSSport/src/CQRSSport.Domain/CQRSSport.Domain.csproj",
+        "projectName": "CQRSSport.Domain",
+        "projectPath": "/home/milkyway/CQRSSport/src/CQRSSport.Domain/CQRSSport.Domain.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/CQRSSport/src/CQRSSport.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/milkyway/CQRSSport/src/CQRSSport.Infastructure/CQRSSport.Infastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/CQRSSport/src/CQRSSport.Infastructure/CQRSSport.Infastructure.csproj",
+        "projectName": "CQRSSport.Infastructure",
+        "projectPath": "/home/milkyway/CQRSSport/src/CQRSSport.Infastructure/CQRSSport.Infastructure.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/CQRSSport/src/CQRSSport.Infastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/milkyway/CQRSSport/src/CQRSSport.APP/CQRSSport.APP.csproj": {
+                "projectPath": "/home/milkyway/CQRSSport/src/CQRSSport.APP/CQRSSport.APP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/milkyway/CQRSSport/src/CQRSSport/CQRSSport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/CQRSSport/src/CQRSSport/CQRSSport.csproj",
+        "projectName": "CQRSSport",
+        "projectPath": "/home/milkyway/CQRSSport/src/CQRSSport/CQRSSport.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/CQRSSport/src/CQRSSport/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/milkyway/CQRSSport/src/CQRSSport.APP/CQRSSport.APP.csproj": {
+                "projectPath": "/home/milkyway/CQRSSport/src/CQRSSport.APP/CQRSSport.APP.csproj"
+              },
+              "/home/milkyway/CQRSSport/src/CQRSSport.Infastructure/CQRSSport.Infastructure.csproj": {
+                "projectPath": "/home/milkyway/CQRSSport/src/CQRSSport.Infastructure/CQRSSport.Infastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[13.0.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

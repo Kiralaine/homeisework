@@ -1,0 +1,15 @@
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/bin/Debug/net8.0/CQRSPlayer.APP.deps.json
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/bin/Debug/net8.0/CQRSPlayer.APP.dll
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/bin/Debug/net8.0/CQRSPlayer.APP.pdb
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/bin/Debug/net8.0/CQRSPlayer.Domain.dll
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/bin/Debug/net8.0/CQRSPlayer.Domain.pdb
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/obj/Debug/net8.0/CQRSPlayer.APP.csproj.AssemblyReference.cache
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/obj/Debug/net8.0/CQRSPlayer.APP.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/obj/Debug/net8.0/CQRSPlayer.APP.AssemblyInfoInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/obj/Debug/net8.0/CQRSPlayer.APP.AssemblyInfo.cs
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/obj/Debug/net8.0/CQRSPlayer.APP.csproj.CoreCompileInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/obj/Debug/net8.0/CQRSPlay.49FCE8FD.Up2Date
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/obj/Debug/net8.0/CQRSPlayer.APP.dll
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/obj/Debug/net8.0/refint/CQRSPlayer.APP.dll
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/obj/Debug/net8.0/CQRSPlayer.APP.pdb
+/home/milkyway/Documents/programming/csharpprojects/CQRSPlayer/src/CQRSPlayer.APP/obj/Debug/net8.0/ref/CQRSPlayer.APP.dll

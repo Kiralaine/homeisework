@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSFestival", "src\CQRSFestival\CQRSFestival.csproj", "{6BFBD74E-F8E4-4B34-96A9-655983D4E57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSFestival.APP", "src\CQRSFestival.APP\CQRSFestival.APP.csproj", "{55F553AA-2453-4FB5-8501-9B9CB3CCB793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSFestival.Infastructure", "src\CQRSFestival.Infastructure\CQRSFestival.Infastructure.csproj", "{6CA7A566-06E3-48F1-8EEA-30FE4B82A65E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRSFestival.Domain", "src\CQRSFestival.Domain\CQRSFestival.Domain.csproj", "{5451D48D-F28D-4609-A87F-AD270D81DC28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BFBD74E-F8E4-4B34-96A9-655983D4E57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFBD74E-F8E4-4B34-96A9-655983D4E57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFBD74E-F8E4-4B34-96A9-655983D4E57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFBD74E-F8E4-4B34-96A9-655983D4E57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F553AA-2453-4FB5-8501-9B9CB3CCB793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F553AA-2453-4FB5-8501-9B9CB3CCB793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F553AA-2453-4FB5-8501-9B9CB3CCB793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F553AA-2453-4FB5-8501-9B9CB3CCB793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA7A566-06E3-48F1-8EEA-30FE4B82A65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA7A566-06E3-48F1-8EEA-30FE4B82A65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA7A566-06E3-48F1-8EEA-30FE4B82A65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA7A566-06E3-48F1-8EEA-30FE4B82A65E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5451D48D-F28D-4609-A87F-AD270D81DC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5451D48D-F28D-4609-A87F-AD270D81DC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5451D48D-F28D-4609-A87F-AD270D81DC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5451D48D-F28D-4609-A87F-AD270D81DC28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
