@@ -1,0 +1,34 @@
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/obj/Debug/net8.0/Season.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/obj/Debug/net8.0/Season.Application.AssemblyInfoInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/obj/Debug/net8.0/Season.Application.AssemblyInfo.cs
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/obj/Debug/net8.0/Season.Application.csproj.CoreCompileInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/bin/Debug/net8.0/Season.Application.deps.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/bin/Debug/net8.0/Season.Application.runtimeconfig.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/bin/Debug/net8.0/Season.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/bin/Debug/net8.0/Season.Application.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/obj/Debug/net8.0/Season.Application.csproj.AssemblyReference.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/obj/Debug/net8.0/Season.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/obj/Debug/net8.0/refint/Season.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/obj/Debug/net8.0/Season.Application.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/obj/Debug/net8.0/Season.Application.genruntimeconfig.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/obj/Debug/net8.0/ref/Season.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/bin/Debug/net8.0/Season.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/bin/Debug/net8.0/Season.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Application/obj/Debug/net8.0/Season.72B38BEE.Up2Date
+/home/milkyway/CleanSeason/src/Season.Application/bin/Debug/net8.0/Season.Application.deps.json
+/home/milkyway/CleanSeason/src/Season.Application/bin/Debug/net8.0/Season.Application.runtimeconfig.json
+/home/milkyway/CleanSeason/src/Season.Application/bin/Debug/net8.0/Season.Application.dll
+/home/milkyway/CleanSeason/src/Season.Application/bin/Debug/net8.0/Season.Application.pdb
+/home/milkyway/CleanSeason/src/Season.Application/bin/Debug/net8.0/Season.Domain.dll
+/home/milkyway/CleanSeason/src/Season.Application/bin/Debug/net8.0/Season.Domain.pdb
+/home/milkyway/CleanSeason/src/Season.Application/obj/Debug/net8.0/Season.Application.csproj.AssemblyReference.cache
+/home/milkyway/CleanSeason/src/Season.Application/obj/Debug/net8.0/Season.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/CleanSeason/src/Season.Application/obj/Debug/net8.0/Season.Application.AssemblyInfoInputs.cache
+/home/milkyway/CleanSeason/src/Season.Application/obj/Debug/net8.0/Season.Application.AssemblyInfo.cs
+/home/milkyway/CleanSeason/src/Season.Application/obj/Debug/net8.0/Season.Application.csproj.CoreCompileInputs.cache
+/home/milkyway/CleanSeason/src/Season.Application/obj/Debug/net8.0/Season.A.9FD2A33F.Up2Date
+/home/milkyway/CleanSeason/src/Season.Application/obj/Debug/net8.0/Season.Application.dll
+/home/milkyway/CleanSeason/src/Season.Application/obj/Debug/net8.0/refint/Season.Application.dll
+/home/milkyway/CleanSeason/src/Season.Application/obj/Debug/net8.0/Season.Application.pdb
+/home/milkyway/CleanSeason/src/Season.Application/obj/Debug/net8.0/Season.Application.genruntimeconfig.cache
+/home/milkyway/CleanSeason/src/Season.Application/obj/Debug/net8.0/ref/Season.Application.dll

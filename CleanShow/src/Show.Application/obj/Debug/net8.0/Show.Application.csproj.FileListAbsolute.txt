@@ -1,0 +1,34 @@
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/obj/Debug/net8.0/Show.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/obj/Debug/net8.0/Show.Application.AssemblyInfoInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/obj/Debug/net8.0/Show.Application.AssemblyInfo.cs
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/obj/Debug/net8.0/Show.Application.csproj.CoreCompileInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/bin/Debug/net8.0/Show.Application.deps.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/bin/Debug/net8.0/Show.Application.runtimeconfig.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/bin/Debug/net8.0/Show.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/bin/Debug/net8.0/Show.Application.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/obj/Debug/net8.0/Show.Application.csproj.AssemblyReference.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/obj/Debug/net8.0/Show.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/obj/Debug/net8.0/refint/Show.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/obj/Debug/net8.0/Show.Application.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/obj/Debug/net8.0/Show.Application.genruntimeconfig.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/obj/Debug/net8.0/ref/Show.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/bin/Debug/net8.0/Show.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/bin/Debug/net8.0/Show.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Application/obj/Debug/net8.0/Show.72B38BEE.Up2Date
+/home/milkyway/CleanShow/src/Show.Application/bin/Debug/net8.0/Show.Application.deps.json
+/home/milkyway/CleanShow/src/Show.Application/bin/Debug/net8.0/Show.Application.runtimeconfig.json
+/home/milkyway/CleanShow/src/Show.Application/bin/Debug/net8.0/Show.Application.dll
+/home/milkyway/CleanShow/src/Show.Application/bin/Debug/net8.0/Show.Application.pdb
+/home/milkyway/CleanShow/src/Show.Application/bin/Debug/net8.0/Show.Domain.dll
+/home/milkyway/CleanShow/src/Show.Application/bin/Debug/net8.0/Show.Domain.pdb
+/home/milkyway/CleanShow/src/Show.Application/obj/Debug/net8.0/Show.Application.csproj.AssemblyReference.cache
+/home/milkyway/CleanShow/src/Show.Application/obj/Debug/net8.0/Show.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/CleanShow/src/Show.Application/obj/Debug/net8.0/Show.Application.AssemblyInfoInputs.cache
+/home/milkyway/CleanShow/src/Show.Application/obj/Debug/net8.0/Show.Application.AssemblyInfo.cs
+/home/milkyway/CleanShow/src/Show.Application/obj/Debug/net8.0/Show.Application.csproj.CoreCompileInputs.cache
+/home/milkyway/CleanShow/src/Show.Application/obj/Debug/net8.0/Show.Application.dll
+/home/milkyway/CleanShow/src/Show.Application/obj/Debug/net8.0/refint/Show.Application.dll
+/home/milkyway/CleanShow/src/Show.Application/obj/Debug/net8.0/Show.Application.pdb
+/home/milkyway/CleanShow/src/Show.Application/obj/Debug/net8.0/Show.Application.genruntimeconfig.cache
+/home/milkyway/CleanShow/src/Show.Application/obj/Debug/net8.0/ref/Show.Application.dll
+/home/milkyway/CleanShow/src/Show.Application/obj/Debug/net8.0/Show.App.53A4CA56.Up2Date

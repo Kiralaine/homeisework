@@ -1,0 +1,22 @@
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Competition/src/Competition.Domain/bin/Debug/net8.0/Competition.Domain.deps.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Competition/src/Competition.Domain/bin/Debug/net8.0/Competition.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Competition/src/Competition.Domain/bin/Debug/net8.0/Competition.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Competition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Competition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.AssemblyInfoInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Competition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.AssemblyInfo.cs
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Competition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.csproj.CoreCompileInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Competition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Competition/src/Competition.Domain/obj/Debug/net8.0/refint/Competition.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Competition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Competition/src/Competition.Domain/obj/Debug/net8.0/ref/Competition.Domain.dll
+/home/milkyway/CleanCompetition/src/Competition.Domain/bin/Debug/net8.0/Competition.Domain.deps.json
+/home/milkyway/CleanCompetition/src/Competition.Domain/bin/Debug/net8.0/Competition.Domain.dll
+/home/milkyway/CleanCompetition/src/Competition.Domain/bin/Debug/net8.0/Competition.Domain.pdb
+/home/milkyway/CleanCompetition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/CleanCompetition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.AssemblyInfoInputs.cache
+/home/milkyway/CleanCompetition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.AssemblyInfo.cs
+/home/milkyway/CleanCompetition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.csproj.CoreCompileInputs.cache
+/home/milkyway/CleanCompetition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.dll
+/home/milkyway/CleanCompetition/src/Competition.Domain/obj/Debug/net8.0/refint/Competition.Domain.dll
+/home/milkyway/CleanCompetition/src/Competition.Domain/obj/Debug/net8.0/Competition.Domain.pdb
+/home/milkyway/CleanCompetition/src/Competition.Domain/obj/Debug/net8.0/ref/Competition.Domain.dll

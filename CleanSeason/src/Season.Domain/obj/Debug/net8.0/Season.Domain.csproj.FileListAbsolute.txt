@@ -1,0 +1,22 @@
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Domain/bin/Debug/net8.0/Season.Domain.deps.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Domain/bin/Debug/net8.0/Season.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Domain/bin/Debug/net8.0/Season.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Domain/obj/Debug/net8.0/Season.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Domain/obj/Debug/net8.0/Season.Domain.AssemblyInfoInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Domain/obj/Debug/net8.0/Season.Domain.AssemblyInfo.cs
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Domain/obj/Debug/net8.0/Season.Domain.csproj.CoreCompileInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Domain/obj/Debug/net8.0/Season.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Domain/obj/Debug/net8.0/refint/Season.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Domain/obj/Debug/net8.0/Season.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Season/src/Season.Domain/obj/Debug/net8.0/ref/Season.Domain.dll
+/home/milkyway/CleanSeason/src/Season.Domain/bin/Debug/net8.0/Season.Domain.deps.json
+/home/milkyway/CleanSeason/src/Season.Domain/bin/Debug/net8.0/Season.Domain.dll
+/home/milkyway/CleanSeason/src/Season.Domain/bin/Debug/net8.0/Season.Domain.pdb
+/home/milkyway/CleanSeason/src/Season.Domain/obj/Debug/net8.0/Season.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/CleanSeason/src/Season.Domain/obj/Debug/net8.0/Season.Domain.AssemblyInfoInputs.cache
+/home/milkyway/CleanSeason/src/Season.Domain/obj/Debug/net8.0/Season.Domain.AssemblyInfo.cs
+/home/milkyway/CleanSeason/src/Season.Domain/obj/Debug/net8.0/Season.Domain.csproj.CoreCompileInputs.cache
+/home/milkyway/CleanSeason/src/Season.Domain/obj/Debug/net8.0/Season.Domain.dll
+/home/milkyway/CleanSeason/src/Season.Domain/obj/Debug/net8.0/refint/Season.Domain.dll
+/home/milkyway/CleanSeason/src/Season.Domain/obj/Debug/net8.0/Season.Domain.pdb
+/home/milkyway/CleanSeason/src/Season.Domain/obj/Debug/net8.0/ref/Season.Domain.dll

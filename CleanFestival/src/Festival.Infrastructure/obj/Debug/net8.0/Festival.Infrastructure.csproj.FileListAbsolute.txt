@@ -1,0 +1,38 @@
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.AssemblyInfo.cs
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Infrastructure.deps.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Infrastructure.runtimeconfig.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Infrastructure.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Infrastructure.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/obj/Debug/net8.0/refint/Festival.Infrastructure.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.genruntimeconfig.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/obj/Debug/net8.0/ref/Festival.Infrastructure.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Application.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.C8CB4D6D.Up2Date
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Infrastructure.deps.json
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Infrastructure.runtimeconfig.json
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Infrastructure.dll
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Infrastructure.pdb
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Application.dll
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Domain.dll
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Application.pdb
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/bin/Debug/net8.0/Festival.Domain.pdb
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.csproj.AssemblyReference.cache
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.AssemblyInfoInputs.cache
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.AssemblyInfo.cs
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.csproj.CoreCompileInputs.cache
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.dll
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/obj/Debug/net8.0/refint/Festival.Infrastructure.dll
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.pdb
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.Infrastructure.genruntimeconfig.cache
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/obj/Debug/net8.0/ref/Festival.Infrastructure.dll
+/home/milkyway/CleanFestival/src/Festival.Infrastructure/obj/Debug/net8.0/Festival.663543A5.Up2Date

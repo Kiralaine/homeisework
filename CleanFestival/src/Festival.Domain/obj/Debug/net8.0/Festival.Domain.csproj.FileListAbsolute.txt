@@ -1,0 +1,22 @@
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Domain/bin/Debug/net8.0/Festival.Domain.deps.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Domain/bin/Debug/net8.0/Festival.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Domain/bin/Debug/net8.0/Festival.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.AssemblyInfoInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.AssemblyInfo.cs
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.csproj.CoreCompileInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Domain/obj/Debug/net8.0/refint/Festival.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Festival/src/Festival.Domain/obj/Debug/net8.0/ref/Festival.Domain.dll
+/home/milkyway/CleanFestival/src/Festival.Domain/bin/Debug/net8.0/Festival.Domain.deps.json
+/home/milkyway/CleanFestival/src/Festival.Domain/bin/Debug/net8.0/Festival.Domain.dll
+/home/milkyway/CleanFestival/src/Festival.Domain/bin/Debug/net8.0/Festival.Domain.pdb
+/home/milkyway/CleanFestival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/CleanFestival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.AssemblyInfoInputs.cache
+/home/milkyway/CleanFestival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.AssemblyInfo.cs
+/home/milkyway/CleanFestival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.csproj.CoreCompileInputs.cache
+/home/milkyway/CleanFestival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.dll
+/home/milkyway/CleanFestival/src/Festival.Domain/obj/Debug/net8.0/refint/Festival.Domain.dll
+/home/milkyway/CleanFestival/src/Festival.Domain/obj/Debug/net8.0/Festival.Domain.pdb
+/home/milkyway/CleanFestival/src/Festival.Domain/obj/Debug/net8.0/ref/Festival.Domain.dll

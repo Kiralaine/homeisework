@@ -1,0 +1,22 @@
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Domain/bin/Debug/net8.0/Sport.Domain.deps.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Domain/bin/Debug/net8.0/Sport.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Domain/bin/Debug/net8.0/Sport.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.AssemblyInfoInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.AssemblyInfo.cs
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.csproj.CoreCompileInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Domain/obj/Debug/net8.0/refint/Sport.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Domain/obj/Debug/net8.0/ref/Sport.Domain.dll
+/home/milkyway/CleanSport/src/Sport.Domain/bin/Debug/net8.0/Sport.Domain.deps.json
+/home/milkyway/CleanSport/src/Sport.Domain/bin/Debug/net8.0/Sport.Domain.dll
+/home/milkyway/CleanSport/src/Sport.Domain/bin/Debug/net8.0/Sport.Domain.pdb
+/home/milkyway/CleanSport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/CleanSport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.AssemblyInfoInputs.cache
+/home/milkyway/CleanSport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.AssemblyInfo.cs
+/home/milkyway/CleanSport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.csproj.CoreCompileInputs.cache
+/home/milkyway/CleanSport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.dll
+/home/milkyway/CleanSport/src/Sport.Domain/obj/Debug/net8.0/refint/Sport.Domain.dll
+/home/milkyway/CleanSport/src/Sport.Domain/obj/Debug/net8.0/Sport.Domain.pdb
+/home/milkyway/CleanSport/src/Sport.Domain/obj/Debug/net8.0/ref/Sport.Domain.dll

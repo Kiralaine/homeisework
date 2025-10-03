@@ -1,0 +1,22 @@
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Domain/bin/Debug/net8.0/Show.Domain.deps.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Domain/bin/Debug/net8.0/Show.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Domain/bin/Debug/net8.0/Show.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Domain/obj/Debug/net8.0/Show.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Domain/obj/Debug/net8.0/Show.Domain.AssemblyInfoInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Domain/obj/Debug/net8.0/Show.Domain.AssemblyInfo.cs
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Domain/obj/Debug/net8.0/Show.Domain.csproj.CoreCompileInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Domain/obj/Debug/net8.0/Show.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Domain/obj/Debug/net8.0/refint/Show.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Domain/obj/Debug/net8.0/Show.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Show/src/Show.Domain/obj/Debug/net8.0/ref/Show.Domain.dll
+/home/milkyway/CleanShow/src/Show.Domain/bin/Debug/net8.0/Show.Domain.deps.json
+/home/milkyway/CleanShow/src/Show.Domain/bin/Debug/net8.0/Show.Domain.dll
+/home/milkyway/CleanShow/src/Show.Domain/bin/Debug/net8.0/Show.Domain.pdb
+/home/milkyway/CleanShow/src/Show.Domain/obj/Debug/net8.0/Show.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/CleanShow/src/Show.Domain/obj/Debug/net8.0/Show.Domain.AssemblyInfoInputs.cache
+/home/milkyway/CleanShow/src/Show.Domain/obj/Debug/net8.0/Show.Domain.AssemblyInfo.cs
+/home/milkyway/CleanShow/src/Show.Domain/obj/Debug/net8.0/Show.Domain.csproj.CoreCompileInputs.cache
+/home/milkyway/CleanShow/src/Show.Domain/obj/Debug/net8.0/Show.Domain.dll
+/home/milkyway/CleanShow/src/Show.Domain/obj/Debug/net8.0/refint/Show.Domain.dll
+/home/milkyway/CleanShow/src/Show.Domain/obj/Debug/net8.0/Show.Domain.pdb
+/home/milkyway/CleanShow/src/Show.Domain/obj/Debug/net8.0/ref/Show.Domain.dll

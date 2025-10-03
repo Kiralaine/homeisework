@@ -1,0 +1,304 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/milkyway/CleanCompetition/src/Competition.Api/Competition.Api.csproj": {}
+  },
+  "projects": {
+    "/home/milkyway/CleanCompetition/src/Competition.Api/Competition.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/CleanCompetition/src/Competition.Api/Competition.Api.csproj",
+        "projectName": "Competition.Api",
+        "projectPath": "/home/milkyway/CleanCompetition/src/Competition.Api/Competition.Api.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/CleanCompetition/src/Competition.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/milkyway/CleanCompetition/src/Competition.Application/Competition.Application.csproj": {
+                "projectPath": "/home/milkyway/CleanCompetition/src/Competition.Application/Competition.Application.csproj"
+              },
+              "/home/milkyway/CleanCompetition/src/Competition.Infrastructure/Competition.Infrastructure.csproj": {
+                "projectPath": "/home/milkyway/CleanCompetition/src/Competition.Infrastructure/Competition.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/milkyway/CleanCompetition/src/Competition.Application/Competition.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/CleanCompetition/src/Competition.Application/Competition.Application.csproj",
+        "projectName": "Competition.Application",
+        "projectPath": "/home/milkyway/CleanCompetition/src/Competition.Application/Competition.Application.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/CleanCompetition/src/Competition.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/milkyway/CleanCompetition/src/Competition.Domain/Competition.Domain.csproj": {
+                "projectPath": "/home/milkyway/CleanCompetition/src/Competition.Domain/Competition.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/milkyway/CleanCompetition/src/Competition.Domain/Competition.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/CleanCompetition/src/Competition.Domain/Competition.Domain.csproj",
+        "projectName": "Competition.Domain",
+        "projectPath": "/home/milkyway/CleanCompetition/src/Competition.Domain/Competition.Domain.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/CleanCompetition/src/Competition.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/milkyway/CleanCompetition/src/Competition.Infrastructure/Competition.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/CleanCompetition/src/Competition.Infrastructure/Competition.Infrastructure.csproj",
+        "projectName": "Competition.Infrastructure",
+        "projectPath": "/home/milkyway/CleanCompetition/src/Competition.Infrastructure/Competition.Infrastructure.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/CleanCompetition/src/Competition.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/milkyway/CleanCompetition/src/Competition.Application/Competition.Application.csproj": {
+                "projectPath": "/home/milkyway/CleanCompetition/src/Competition.Application/Competition.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

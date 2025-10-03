@@ -1,0 +1,34 @@
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.AssemblyInfoInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.AssemblyInfo.cs
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.csproj.CoreCompileInputs.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/bin/Debug/net8.0/Sport.Application.deps.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/bin/Debug/net8.0/Sport.Application.runtimeconfig.json
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/bin/Debug/net8.0/Sport.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/bin/Debug/net8.0/Sport.Application.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.csproj.AssemblyReference.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/obj/Debug/net8.0/refint/Sport.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.genruntimeconfig.cache
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/obj/Debug/net8.0/ref/Sport.Application.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/bin/Debug/net8.0/Sport.Domain.dll
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/bin/Debug/net8.0/Sport.Domain.pdb
+C:/Users/Windows 11/OneDrive/Рабочий стол/G11/Sport/src/Sport.Application/obj/Debug/net8.0/Sport.72B38BEE.Up2Date
+/home/milkyway/CleanSport/src/Sport.Application/bin/Debug/net8.0/Sport.Application.deps.json
+/home/milkyway/CleanSport/src/Sport.Application/bin/Debug/net8.0/Sport.Application.runtimeconfig.json
+/home/milkyway/CleanSport/src/Sport.Application/bin/Debug/net8.0/Sport.Application.dll
+/home/milkyway/CleanSport/src/Sport.Application/bin/Debug/net8.0/Sport.Application.pdb
+/home/milkyway/CleanSport/src/Sport.Application/bin/Debug/net8.0/Sport.Domain.dll
+/home/milkyway/CleanSport/src/Sport.Application/bin/Debug/net8.0/Sport.Domain.pdb
+/home/milkyway/CleanSport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.csproj.AssemblyReference.cache
+/home/milkyway/CleanSport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/CleanSport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.AssemblyInfoInputs.cache
+/home/milkyway/CleanSport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.AssemblyInfo.cs
+/home/milkyway/CleanSport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.csproj.CoreCompileInputs.cache
+/home/milkyway/CleanSport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.dll
+/home/milkyway/CleanSport/src/Sport.Application/obj/Debug/net8.0/refint/Sport.Application.dll
+/home/milkyway/CleanSport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.pdb
+/home/milkyway/CleanSport/src/Sport.Application/obj/Debug/net8.0/Sport.Application.genruntimeconfig.cache
+/home/milkyway/CleanSport/src/Sport.Application/obj/Debug/net8.0/ref/Sport.Application.dll
+/home/milkyway/CleanSport/src/Sport.Application/obj/Debug/net8.0/Sport.Ap.2D2C7E53.Up2Date
