@@ -1,0 +1,15 @@
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/bin/Debug/net8.0/BookMongo.App.deps.json
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/bin/Debug/net8.0/BookMongo.App.dll
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/bin/Debug/net8.0/BookMongo.App.pdb
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/bin/Debug/net8.0/BookMongo.Domain.dll
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/bin/Debug/net8.0/BookMongo.Domain.pdb
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/obj/Debug/net8.0/BookMongo.App.csproj.AssemblyReference.cache
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/obj/Debug/net8.0/BookMongo.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/obj/Debug/net8.0/BookMongo.App.AssemblyInfoInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/obj/Debug/net8.0/BookMongo.App.AssemblyInfo.cs
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/obj/Debug/net8.0/BookMongo.App.csproj.CoreCompileInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/obj/Debug/net8.0/BookMong.9727556E.Up2Date
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/obj/Debug/net8.0/BookMongo.App.dll
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/obj/Debug/net8.0/refint/BookMongo.App.dll
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/obj/Debug/net8.0/BookMongo.App.pdb
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.App/obj/Debug/net8.0/ref/BookMongo.App.dll

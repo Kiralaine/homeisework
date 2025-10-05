@@ -1,0 +1,17 @@
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/bin/Debug/net8.0/BookMongo.Infastructure.deps.json
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/bin/Debug/net8.0/BookMongo.Infastructure.dll
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/bin/Debug/net8.0/BookMongo.Infastructure.pdb
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/bin/Debug/net8.0/BookMongo.App.dll
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/bin/Debug/net8.0/BookMongo.Domain.dll
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/bin/Debug/net8.0/BookMongo.App.pdb
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/bin/Debug/net8.0/BookMongo.Domain.pdb
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/obj/Debug/net8.0/BookMongo.Infastructure.csproj.AssemblyReference.cache
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/obj/Debug/net8.0/BookMongo.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/obj/Debug/net8.0/BookMongo.Infastructure.AssemblyInfoInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/obj/Debug/net8.0/BookMongo.Infastructure.AssemblyInfo.cs
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/obj/Debug/net8.0/BookMongo.Infastructure.csproj.CoreCompileInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/obj/Debug/net8.0/BookMong.8B2946CE.Up2Date
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/obj/Debug/net8.0/BookMongo.Infastructure.dll
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/obj/Debug/net8.0/refint/BookMongo.Infastructure.dll
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/obj/Debug/net8.0/BookMongo.Infastructure.pdb
+/home/milkyway/Documents/programming/csharpprojects/BookMongo/src/BookMongo.Infastructure/obj/Debug/net8.0/ref/BookMongo.Infastructure.dll

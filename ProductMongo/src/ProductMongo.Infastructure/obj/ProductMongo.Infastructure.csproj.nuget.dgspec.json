@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/milkyway/ProductMongo/src/ProductMongo.Infastructure/ProductMongo.Infastructure.csproj": {}
+  },
+  "projects": {
+    "/home/milkyway/ProductMongo/src/ProductMongo.App/ProductMongo.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/ProductMongo/src/ProductMongo.App/ProductMongo.App.csproj",
+        "projectName": "ProductMongo.App",
+        "projectPath": "/home/milkyway/ProductMongo/src/ProductMongo.App/ProductMongo.App.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/ProductMongo/src/ProductMongo.App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/milkyway/ProductMongo/src/ProductMongo.Domain/ProductMongo.Domain.csproj": {
+                "projectPath": "/home/milkyway/ProductMongo/src/ProductMongo.Domain/ProductMongo.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/milkyway/ProductMongo/src/ProductMongo.Domain/ProductMongo.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/ProductMongo/src/ProductMongo.Domain/ProductMongo.Domain.csproj",
+        "projectName": "ProductMongo.Domain",
+        "projectPath": "/home/milkyway/ProductMongo/src/ProductMongo.Domain/ProductMongo.Domain.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/ProductMongo/src/ProductMongo.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.30.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/milkyway/ProductMongo/src/ProductMongo.Infastructure/ProductMongo.Infastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/ProductMongo/src/ProductMongo.Infastructure/ProductMongo.Infastructure.csproj",
+        "projectName": "ProductMongo.Infastructure",
+        "projectPath": "/home/milkyway/ProductMongo/src/ProductMongo.Infastructure/ProductMongo.Infastructure.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/ProductMongo/src/ProductMongo.Infastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/milkyway/ProductMongo/src/ProductMongo.App/ProductMongo.App.csproj": {
+                "projectPath": "/home/milkyway/ProductMongo/src/ProductMongo.App/ProductMongo.App.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.30.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
