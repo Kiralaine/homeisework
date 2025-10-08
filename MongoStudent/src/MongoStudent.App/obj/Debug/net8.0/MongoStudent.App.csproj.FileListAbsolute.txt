@@ -1,0 +1,15 @@
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/bin/Debug/net8.0/MongoStudent.App.deps.json
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/bin/Debug/net8.0/MongoStudent.App.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/bin/Debug/net8.0/MongoStudent.App.pdb
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/bin/Debug/net8.0/MongoStudent.Domain.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/bin/Debug/net8.0/MongoStudent.Domain.pdb
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/obj/Debug/net8.0/MongoStudent.App.csproj.AssemblyReference.cache
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/obj/Debug/net8.0/MongoStudent.App.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/obj/Debug/net8.0/MongoStudent.App.AssemblyInfoInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/obj/Debug/net8.0/MongoStudent.App.AssemblyInfo.cs
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/obj/Debug/net8.0/MongoStudent.App.csproj.CoreCompileInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/obj/Debug/net8.0/MongoStu.5BCE43E7.Up2Date
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/obj/Debug/net8.0/MongoStudent.App.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/obj/Debug/net8.0/refint/MongoStudent.App.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/obj/Debug/net8.0/MongoStudent.App.pdb
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/obj/Debug/net8.0/ref/MongoStudent.App.dll

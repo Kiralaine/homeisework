@@ -1,0 +1,232 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/MongoStudent.Inf.csproj": {}
+  },
+  "projects": {
+    "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/MongoStudent.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/MongoStudent.App.csproj",
+        "projectName": "MongoStudent.App",
+        "projectPath": "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/MongoStudent.App.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/MongoStudent.Domain.csproj": {
+                "projectPath": "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/MongoStudent.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/MongoStudent.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/MongoStudent.Domain.csproj",
+        "projectName": "MongoStudent.Domain",
+        "projectPath": "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/MongoStudent.Domain.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.30.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/MongoStudent.Inf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/MongoStudent.Inf.csproj",
+        "projectName": "MongoStudent.Inf",
+        "projectPath": "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/MongoStudent.Inf.csproj",
+        "packagesPath": "/home/milkyway/.nuget/packages/",
+        "outputPath": "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/milkyway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/MongoStudent.App.csproj": {
+                "projectPath": "/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.App/MongoStudent.App.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.30.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/nix/store/9hd99kvdrbwayxvk232w9xshvnfvx6ar-dotnet-sdk-8.0.414/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

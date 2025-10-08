@@ -1,0 +1,12 @@
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/bin/Debug/net8.0/MongoStudent.Domain.deps.json
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/bin/Debug/net8.0/MongoStudent.Domain.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/bin/Debug/net8.0/MongoStudent.Domain.pdb
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/obj/Debug/net8.0/MongoStudent.Domain.csproj.AssemblyReference.cache
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/obj/Debug/net8.0/MongoStudent.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/obj/Debug/net8.0/MongoStudent.Domain.AssemblyInfoInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/obj/Debug/net8.0/MongoStudent.Domain.AssemblyInfo.cs
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/obj/Debug/net8.0/MongoStudent.Domain.csproj.CoreCompileInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/obj/Debug/net8.0/MongoStudent.Domain.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/obj/Debug/net8.0/refint/MongoStudent.Domain.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/obj/Debug/net8.0/MongoStudent.Domain.pdb
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Domain/obj/Debug/net8.0/ref/MongoStudent.Domain.dll

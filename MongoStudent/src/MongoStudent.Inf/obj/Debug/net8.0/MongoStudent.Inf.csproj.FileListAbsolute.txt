@@ -1,0 +1,17 @@
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/bin/Debug/net8.0/MongoStudent.Inf.deps.json
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/bin/Debug/net8.0/MongoStudent.Inf.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/bin/Debug/net8.0/MongoStudent.Inf.pdb
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/bin/Debug/net8.0/MongoStudent.App.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/bin/Debug/net8.0/MongoStudent.Domain.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/bin/Debug/net8.0/MongoStudent.App.pdb
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/bin/Debug/net8.0/MongoStudent.Domain.pdb
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/obj/Debug/net8.0/MongoStudent.Inf.csproj.AssemblyReference.cache
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/obj/Debug/net8.0/MongoStudent.Inf.GeneratedMSBuildEditorConfig.editorconfig
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/obj/Debug/net8.0/MongoStudent.Inf.AssemblyInfoInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/obj/Debug/net8.0/MongoStudent.Inf.AssemblyInfo.cs
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/obj/Debug/net8.0/MongoStudent.Inf.csproj.CoreCompileInputs.cache
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/obj/Debug/net8.0/MongoStu.D5C19704.Up2Date
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/obj/Debug/net8.0/MongoStudent.Inf.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/obj/Debug/net8.0/refint/MongoStudent.Inf.dll
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/obj/Debug/net8.0/MongoStudent.Inf.pdb
+/home/milkyway/Documents/programming/csharpprojects/MongoStudent/src/MongoStudent.Inf/obj/Debug/net8.0/ref/MongoStudent.Inf.dll

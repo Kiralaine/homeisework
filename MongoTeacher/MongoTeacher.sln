@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoTeacher", "src\MongoTeacher\MongoTeacher.csproj", "{C9E328B4-4A67-4208-99C9-BB0E4F66B6C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoTeacher.App", "src\MongoTeacher.App\MongoTeacher.App.csproj", "{958DB954-6FA5-45C2-8BA9-73D2E7EDDD60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoTeacher.Inf", "src\MongoTeacher.Inf\MongoTeacher.Inf.csproj", "{9DE65F3B-5D53-4DDD-979C-BB30FA521634}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoTeacher.Domain", "src\MongoTeacher.Domain\MongoTeacher.Domain.csproj", "{39A9DF60-ED56-45A6-B3ED-F7CC01BB7AA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E328B4-4A67-4208-99C9-BB0E4F66B6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E328B4-4A67-4208-99C9-BB0E4F66B6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E328B4-4A67-4208-99C9-BB0E4F66B6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E328B4-4A67-4208-99C9-BB0E4F66B6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958DB954-6FA5-45C2-8BA9-73D2E7EDDD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958DB954-6FA5-45C2-8BA9-73D2E7EDDD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958DB954-6FA5-45C2-8BA9-73D2E7EDDD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958DB954-6FA5-45C2-8BA9-73D2E7EDDD60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE65F3B-5D53-4DDD-979C-BB30FA521634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE65F3B-5D53-4DDD-979C-BB30FA521634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE65F3B-5D53-4DDD-979C-BB30FA521634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE65F3B-5D53-4DDD-979C-BB30FA521634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A9DF60-ED56-45A6-B3ED-F7CC01BB7AA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A9DF60-ED56-45A6-B3ED-F7CC01BB7AA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A9DF60-ED56-45A6-B3ED-F7CC01BB7AA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A9DF60-ED56-45A6-B3ED-F7CC01BB7AA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
